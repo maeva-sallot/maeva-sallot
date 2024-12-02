@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Mon cœur dit ](https://github.com/user-attachments/assets/f4dd0198-c1ef-4278-be66-c2b9075cc9a5)
+
 <!--
 **maeva-sallot/maeva-sallot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
