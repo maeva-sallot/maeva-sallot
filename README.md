@@ -43,6 +43,10 @@ After completing a background in economics and finance, which includes a Baccala
 ### 2. [Git-begin](https://github.com/maeva-sallot/git-begins)
    - Repository created to test Git commands and workflows.
 
+### 3. [Tic Tac Toe](https://github.com/maeva-sallot/montictactoe)
+   - Development of a Tic Tac Toe game in Python, exploring the basics of logic and programming.
+   - **Technologie Used**: Python.
+
 ---
 
 ## Badges 🎓
